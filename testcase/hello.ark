@@ -1,0 +1,5 @@
+func hello(a string, b string){
+  return "hello " + a + " " + b
+}
+
+hello("Yale","Hsu")

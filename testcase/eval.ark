@@ -1,0 +1,9 @@
+func add(a int, b int){
+  return a + b
+}
+
+func sub(a int, b int) {
+  return a - b
+}
+
+print( 3 + add(4,5), sub(6,7) )

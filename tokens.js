@@ -1,0 +1,28 @@
+tokens: 
+[
+  { val: 'func', type: 'FUNC' },
+  { val: 'hello', type: 'IDENTIFIER' },
+  { val: '(', type: 'LEFTPAREN' },
+  { val: 'a', type: 'IDENTIFIER' },
+  { val: 'string', type: 'STRING' },
+  { val: ',', type: 'COMMA' },
+  { val: 'b', type: 'IDENTIFIER' },
+  { val: 'string', type: 'STRING' },
+  { val: ')', type: 'LEFTPAREN' },
+  { val: '{', type: 'LEFTBRACKET' },
+  { val: 'return', type: 'RETURN' },
+  { val: 'hello ', type: 'LITERAL' },
+  { val: '+', type: 'PLUS' },
+  { val: 'a', type: 'IDENTIFIER' },
+  { val: '+', type: 'PLUS' },
+  { val: ' ', type: 'LITERAL' },
+  { val: '+', type: 'PLUS' },
+  { val: 'b', type: 'IDENTIFIER' },
+  { val: '}', type: 'RIGHTBRACKET' },
+  { val: 'hello', type: 'IDENTIFIER' },
+  { val: '(', type: 'LEFTPAREN' },
+  { val: 'Yale', type: 'LITERAL' },
+  { val: ',', type: 'COMMA' },
+  { val: 'Hsu', type: 'LITERAL' },
+  { val: ')', type: 'LEFTPAREN' }
+]
